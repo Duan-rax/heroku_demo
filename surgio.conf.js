@@ -133,7 +133,7 @@ module.exports = {
   },
   gateway: {
     auth: true,
-    accessToken: 'surgio',
+    accessToken: 'XrayPlus88@',
   },
   // 非常有限的报错信息收集
   analytics: true,
